@@ -87,18 +87,18 @@ Agenda
 - [ ] Object Merge
 - [ ] Object Equivalencе
 
-Паттерны моделирования изменяемых во времени концептов
+[Паттерны моделирования изменяемых во времени концептов](https://martinfowler.com/eaaDev/)
 ------------------------------------------------------
-- [ ] Audit Log
-- [ ] Temporary Field and Temporary Object
-- [ ] Snapshot
-- [ ] Effectivity
-- [ ] Timepoint
+- [ ] [Timepoint](https://martinfowler.com/eaaDev/TimePoint.html)
+- [ ] [Audit Log](https://martinfowler.com/eaaDev/AuditLog.html)
+- [ ] [Temporary Field and Temporary Object](https://martinfowler.com/eaaDev/TemporalProperty.html)
+- [ ] [Snapshot](https://martinfowler.com/eaaDev/Snapshot.html)
+- [ ] [Effectivity](https://martinfowler.com/eaaDev/Effectivity.html)
 
 [Идиомы ОО-анализа](https://www.google.com/url?q=https://www.dropbox.com/s/rs9linv967xk6s1/%255BSkillTrek%255D%2520Type%2520Idioms%2520at%2520Domain%2520Analysis.pdf?dl%3D0&sa=D&source=docs&ust=1670213951634577&usg=AOvVaw3HpP-uBeqAubjbn5Yr30OS)
 -----------------
+- [ ] Динамическая типизация объекта
 - [ ] Типизация связи
-- [ ] Динамическая типизация
 - [ ] Динамическая типизация связи
 - [ ] Мета-уровень
 
